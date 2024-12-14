@@ -1,67 +1,64 @@
 ---
-title: "Johannes Feldhege, M.Sc. B.A."
+title: "Denis Berté Sálvia, Dr."
 about: 
   template: trestles
-  image: "assets/pfp.jpg"
+  image: "assets/foto.jpg"
   links:
     - text: "{{< fa regular file-pdf >}} CV"
       url: "cv.qmd"
     - icon: linkedin
       text: Linkedin
-      url: "https://www.linkedin.com/in/johannes-feldhege/"
+      url: "#"
     - icon: github
       text: Github
-      url: "https://github.com/jfeldhege/"
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: "https://scholar.google.com/citations?user=KSmfyO8AAAAJ&hl=de"
-    - text: "{{< ai researchgate >}} Researchgate"
-      href: "https://www.researchgate.net/profile/Johannes-Feldhege"
+      url: "https://github.com/DenisBerte/"
 page-layout: full
 ---
 
-## {{< fa user >}} Über mich
+## {{< fa user >}} Sobre
 
-Als wissenschaftlicher Mitarbeiter am Uniklinikum Heidelberg habe ich von 2017-2022 mit Natural Language Processing Methoden Unterhaltungen zum Thema psychischer Gesundheit auf Reddit untersucht. Seit 2022 arbeite ich als Data Scientist für Asklepios Science & Research an Real World Evidence Studien. In Praktika und in ehrenamtlicher Tätigkeit habe ich verschiedene Data Science Projekte mitgestaltet.
+Olá, bem vindos ao meu website pessoal, desenvolvido com RStudio e Quarto. Sou Cientista Social, mestre em Sociologia Política, Doutor em Sociologia e Ciência Política com concentração em Sociologia. Atualmente curso MBA em Ciência e Análise de Dados. Tenho interesse e experiência em pesquisas quantitativas, especialmente em Opinião Pública e Políticas Públicas, envolvendo trabalho com indicadores sociais diversos e análise estatística multivariada. Também tenho experiência em pesquisas representativas e amostragem, além de levantamento de dados em campo. Trabalho com análise estatística em linguagem R, Python, SPSS e Excel.
 
 
 ::: {.panel-tabset}
 
-## {{< fa graduation-cap >}} Ausbildung
+## {{< fa graduation-cap >}} Formação Acadêmica
 
-**Psychologie M.Sc.** \| 2013-2016 \| Universität Kassel
+**MBA em Data Science and Analytics** \| 2024- \| USP/ESALQ
 
-**Psychologie B.Sc.** \| 2010-2013 \| Universität Hamburg
+**Doutor em Sociologia** \| 2018-2024 \| PPGSP/UFSC
 
-**Soziologie und Sinologie B.A.** \| 2007-2010 \| Albert-Ludwigs-Universität Freiburg
+**Mestre em Sociologia Política** \| 2015-2016 \| PPGSP/UFSC
 
-**International Baccalaureate** \| 2007 \| Malvern College, United Kingdom
+**Cientista Social** \| 2010-2015 \| Universidade Federal de Santa Catarina/UFSC
 
 
 
-## {{< fa briefcase >}} Berufliche Erfahrung
 
-**Data Scientist** \| Asklepios Science & Research, Hamburg \| 09/2022-
 
-**Wissenschaftlicher Mitarbeiter** \| Forschungsstelle für Psychotherapie, Uniklinikum Heidelberg \| 2016-2022
+## {{< fa briefcase >}} Experiência Profissional
 
-**Data Science Praktikant** \| Eoda GmbH, Kassel \| 2016
+**Pesquisador** \| Núcleo Interdisciplinar em Políticas Públicas e Opinião Pública (NIPP/UFSC) \| 2014-
 
-**R Tutor** \| Universität Kassel \| 2014-2015
+**Especialista em Pesquisa** \| Secretaria de Desenvolvimento Econômico de Santa Catarina - Programa Gente Catarina \| 2022-2023
 
-**Studentische Hilfskraft** \| Servicestelle Empirische Forschungsmethoden, Universität Hamburg \| 2011--2013
+**Consultoria em Pesquisa** \| Projeto LocalJor \| 2024
 
-## {{< fa code >}} Projekte
+**Treinamento/consultoria em análise estatística em SPSS ** \| Florianópolis/SC \| 2023
 
-**redditoR**: Ein R Paket für Zugriffe auf die API des sozialen Netzwerks Reddit. [Github](https://github.com/jfeldhege/redditoR)
 
-**Textanalyse von Call-Dokumentationen zur Erarbeitung von Herausforderungen und Erfolgen in vergangenen Projekten**: Ein Projekt mit projecttogether und CorrelAid.
 
-**Die Platte unter der Lupe: Einflussfaktoren auf die Absatzzahlen einer Mannheimer Suppenküche**: Untersuchung der Absatzzahlen des Lokals Mannheimer Platte und deren saisonale und externe Einflussfaktoren. Ein Projekt mit der Mannheimer Platte und CorrelAid. [Projektbericht](http://dx.doi.org/10.31219/osf.io/3zsn6)
 
-**Experimente mit Quarto Dashboards, WebR und Shinylive**:  [Quarto Dashboard](https://www.johannesfeldhege.de/dashboard_lifeexp/), [WebR Testseite](http://www.johannesfeldhege.de/webr_test/), [Shinylive  in einem Quarto Dokument](http://www.johannesfeldhege.de/shinylive_test/) und [Eine standalone Shinylive App](http://www.johannesfeldhege.de/shinylive_test2/)
+
+## {{< fa code >}} Projetos
+
+**Vitimização em ambientes universitários - Florianópolis e Chapecó**: Estudo sobre violência em universidades (2016)
+[Relatório da pesquisa](https://nipp.ufsc.br/)
+
+
 
 :::
 
-#### Kontakt:
+#### Contato:
 
-{{< fa regular envelope >}} mail [at] johannesfeldhege.de
+{{< fa regular envelope >}} email denisberte@gmail.com

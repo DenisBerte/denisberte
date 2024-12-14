@@ -2,37 +2,34 @@ project:
   type: website
 
 website:
-  title: "Johannes Feldhege"
-  description: "Persönliche Webseite von Johannes Feldhege"
-  site-url: https://johannesfeldhege.de
-  repo-url: https://github.com/jfeldhege/jfeldhege.github.io
+  title: "Denis Berté Sálvia"
+  description: "Website pessoal"
+  site-url: ""
+  repo-url: https://github.com/DenisBerte/denisberte.github.io
   open-graph: true
   navbar:
     background: "#2A7B88"
     logo: "assets/logo.png"
     search: false
     right:
-      - text: "Home"
+      - text: "Sobre"
         file: index.qmd
-        aria-label: Home
-      - file: publikationen.qmd
-        aria-label: Publikationen
+        aria-label: Sobre
+      - file: publicacoes.qmd
+        aria-label: Publicações
       - file: cv.qmd
         text: "CV"
-      - file: impressum.qmd
-        aria-label: Impressum
+      - file: consultoria.qmd
+        aria-label: Consultoria
       - icon: github
-        href: https://github.com/jfeldhege/
-        aria-label: GitHub Profile
+        href: https://github.com/DenisBerte
+        aria-label: Perfil GitHub 
       - icon: linkedin
-        url: "https://www.linkedin.com/in/johannes-feldhege/"
+        url: "#"
         aria-label: Linkedin
-      - text: "{{< ai google-scholar >}}"
-        href: "https://scholar.google.com/citations?user=KSmfyO8AAAAJ&hl=de"
-      - text: "{{< ai researchgate >}}"
-        href: "https://www.researchgate.net/profile/Johannes-Feldhege"
+        href: "h"
   
-  favicon: "assets/logo.png"
+  favicon: "Denis Berté Sálvia"
   cookie-consent:
     type: express
     style: headline 
@@ -40,7 +37,7 @@ website:
   page-footer: 
     right: |
       Mit {{< fa brands r-project >}} und [Quarto](https://quarto.org/) erstellt.<br>
-      Source Code auf [{{< fa brands github >}} GitHub]({{< var github-url >}})
+      Source Code auf [GitHub](https://github.com/DenisBerte)
 
 execute: 
   freeze: auto
@@ -51,7 +48,6 @@ format:
       light: [flatly, styles.scss]
     toc: false
     link-external-newwindow: true
-    link-external-filter: '^(?:http:|https:)\/\/www\.johannesfeldhege\.de\/custom'
 
 editor: source
 
