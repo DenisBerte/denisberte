@@ -1,1 +1,1 @@
-My personal website was created using R and Quarto.
+Meu website pessoal feito com R e Quarto.
