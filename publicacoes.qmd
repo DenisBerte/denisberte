@@ -2,49 +2,42 @@
 title: "Publicações"
 ---
 
----
-title: "Publicações"
----
+Aqui estão algumas das minhas principais publicações. Mais detalhes sobre estas publicações estão disponíveis na aba "Currículo".
 
-
-Aqui estão algumas das principais publicações de Denis Berté Sálvia. Clique nos links para acessar mais detalhes, quando disponíveis.
-
-## Artigos Publicados em Periódicos
+## {{< fa book-open >}} Artigos Publicados em Periódicos
 
 1. **Análise da Vocação Turística: Um Desafio na Região Intermediária de Lages, Santa Catarina**  
    *Revista Tamoios, v. 20, p. 323-345, 2024.*  
-   [Leia mais](http://lattes.cnpq.br/0980989913917872)
+   [Leia mais](https://www.e-publicacoes.uerj.br/tamoios/article/view/76388)
 
 2. **Prisão no Brasil, modernidade periférica e habitus precário**  
    *Revista Café com Sociologia, v. 4, p. 246-260, 2015.*  
-   [Leia mais](http://lattes.cnpq.br/0980989913917872)
+   [Leia mais](https://revistacafecomsociologia.com/revista/index.php/revista/article/view/448/0)
 
 ---
 
-## Capítulos de Livros Publicados
+## {{< fa file-alt >}} Capítulos de Livros Publicados
 
 1. **Análise do Ambiente Socioeconômico como Fator de Desenvolvimento da Região Intermediária de Lages, Santa Catarina**  
    *Planejamento e Gestão Territorial. São Carlos: Pedro e João Editores, 2023.*  
-   [Leia mais](http://lattes.cnpq.br/0980989913917872)
+   [Leia mais](https://pedroejoaoeditores.com.br/wp-content/uploads/2023/08/EBOOK_Planejamento-e-gestao-territorial.pdf)
 
 2. **Segurança Pública e Pesquisa de Vitimização**  
    *Perspectivas e Reflexões em Sociologia. São Paulo: Bookerfield, 2021.*  
-   [Leia mais](http://lattes.cnpq.br/0980989913917872)
+   [Leia mais](https://bookerfield.com/catalogo/10.53268/BKF21091600)
 
 ---
 
-## Trabalhos Apresentados em Congressos
+## {{< fa microphone >}} Trabalhos Apresentados em Congressos
 
 1. **Vitimização criminal e percepção de insegurança: análise da dimensão objetiva da insegurança a partir de dados de pesquisa realizada em Florianópolis/SC**  
-   *VII Jornada Brasileira de Sociologia, 2021.*  
+   *VII Jornada Brasileira de Sociologia, 2021.*
 
 2. **Vitimização e medo do crime entre estudantes universitários/as: reflexões sobre gênero**  
-   *13º Mundos de Mulheres & Fazendo Gênero 11, 2017.*  
+   *13º Mundos de Mulheres & Fazendo Gênero 11, 2017.*
 
 ---
 
-## Outras Produções
+## {{< fa list-alt >}} Outras Produções
 
 Para uma lista completa de publicações, visite meu [Currículo Lattes](http://lattes.cnpq.br/0980989913917872).
-
-```

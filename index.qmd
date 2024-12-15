@@ -7,7 +7,7 @@ about:
     - text: "{{< fa regular file-pdf >}} CV"
       url: "cv.qmd"
     - icon: linkedin
-      text: Linkedin
+      text: Linkedin (em breve)
       url: "#"
     - icon: github
       text: Github
@@ -19,46 +19,41 @@ page-layout: full
 
 Olá, bem vindos ao meu website pessoal, desenvolvido com RStudio e Quarto. Sou Cientista Social, mestre em Sociologia Política, Doutor em Sociologia e Ciência Política com concentração em Sociologia. Atualmente curso MBA em Ciência e Análise de Dados. Tenho interesse e experiência em pesquisas quantitativas, especialmente em Opinião Pública e Políticas Públicas, envolvendo trabalho com indicadores sociais diversos e análise estatística multivariada. Também tenho experiência em pesquisas representativas e amostragem, além de levantamento de dados em campo. Trabalho com análise estatística em linguagem R, Python, SPSS e Excel.
 
+---
 
 ::: {.panel-tabset}
 
-## {{< fa graduation-cap >}} Formação Acadêmica
+### {{< fa graduation-cap >}} Formação Acadêmica
 
-**MBA em Data Science and Analytics** \| 2024- \| USP/ESALQ
+Minha trajetória acadêmica abrange desde as Ciências Sociais, em especial a sociologia e a ciência política, até um contato em ciência de dados, com foco em métodos quantitativos de pesquisa e análise de dados.
 
-**Doutor em Sociologia** \| 2018-2024 \| PPGSP/UFSC
+- **MBA em Data Science and Analytics** \| 2024- \| ESALQ
+- **Doutor em Sociologia** \| 2018-2024 \| PPGSP/UFSC
+- **Mestre em Sociologia Política** \| 2016-2017 \| PPGSP/UFSC
+- **Bacharel em Ciências Sociais** \| 2010-2015 \| Universidade Federal de Santa Catarina/UFSC
 
-**Mestre em Sociologia Política** \| 2015-2016 \| PPGSP/UFSC
+---
 
-**Cientista Social** \| 2010-2015 \| Universidade Federal de Santa Catarina/UFSC
+### {{< fa briefcase >}} Experiência Profissional
 
+- **Pesquisador** \| Núcleo Interdisciplinar em Políticas Públicas e Opinião Pública (NIPP/UFSC) \| 2014-
+- **Especialista em Pesquisa** \| Secretaria de Estado de Desenvolvimento Econômico de Santa Catarina - Programa Gente Catarina \| 2022-2023
+- **Consultoria em Pesquisa de campo** \| Projeto LocalJor \| 2024
+- **Treinamento e consultoria em análise estatística em SPSS** \| Florianópolis/SC \| 2023
 
+---
 
+### {{< fa code >}} Projetos
 
-
-## {{< fa briefcase >}} Experiência Profissional
-
-**Pesquisador** \| Núcleo Interdisciplinar em Políticas Públicas e Opinião Pública (NIPP/UFSC) \| 2014-
-
-**Especialista em Pesquisa** \| Secretaria de Desenvolvimento Econômico de Santa Catarina - Programa Gente Catarina \| 2022-2023
-
-**Consultoria em Pesquisa** \| Projeto LocalJor \| 2024
-
-**Treinamento/consultoria em análise estatística em SPSS ** \| Florianópolis/SC \| 2023
-
-
-
-
-
-## {{< fa code >}} Projetos
-
-**Vitimização em ambientes universitários - Florianópolis e Chapecó**: Estudo sobre violência em universidades (2016)
-[Relatório da pesquisa](https://nipp.ufsc.br/)
-
-
+- **Vitimização em ambientes universitários - Florianópolis e Chapecó**:  
+  Estudo sobre violência em universidades.  
+  [Relatório da pesquisa](https://nipp.ufsc.br/category/vitimizacao-e-sentimento-de-seguranca/)
 
 :::
 
-#### Contato:
+---
 
-{{< fa regular envelope >}} email denisberte@gmail.com
+## {{< fa envelope >}} Contato
+
+- **Email**: [denisberte@gmail.com](mailto:denisberte@gmail.com)
+

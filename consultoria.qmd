@@ -2,4 +2,26 @@
 title: "Consultoria"
 ---
 
-Realizo consultoria na área de pesquisa e análise de dados. Amostragem, levantamento de dados em capo, tabulação e análise de dados. Apresentação dos resultados de maneira alternativa e digital através de websites e apps.
+## Consultoria em Pesquisa e Análise de Dados
+
+Ofereço serviços especializados em pesquisa e análise de dados, ajudando organizações e indivíduos a transformar informações em decisões. Minha experiência combina metodologia científica e tecnologia para entregar resultados precisos.
+
+### **Serviços Disponíveis**
+- **Amostragem e Planejamento de Pesquisa**  
+  Elaboração de amostras representativas e desenhos de pesquisas alinhados aos objetivos do cliente.
+  
+- **Levantamento de Dados em Campo**  
+  Coordenação e execução de coletas de dados, incluindo da metodologia de survey e entrevistas, aos bancos de dados e relatórios.
+
+- **Análise Estatística e Modelagem**  
+  Aplicação de técnicas avançadas de análise de dados usando R, Python, SPSS e outras ferramentas.
+
+- **Visualização e Apresentação de Resultados**  
+  Criação de relatórios visuais, dashboards interativos e websites personalizados para divulgação dos resultados.
+
+### **Diferenciais**
+- Entrega personalizada com foco em análise de dados, incluindo soluções digitais como websites (Data_Present) e apps interativos (Data_Check).
+- Experiência com análise multivariada e indicadores sociais.
+- Metodologias de pesquisa alinhadas às práticas acadêmicas e de mercado.
+
+Entre em contato para discutir como posso ajudar você ou sua organização a alcançar resultados e respostas.

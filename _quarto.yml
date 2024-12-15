@@ -4,7 +4,7 @@ project:
 website:
   title: "Denis Berté Sálvia"
   description: "Website pessoal"
-  site-url: ""
+  site-url: "https://denisberte.github.io/"
   repo-url: https://github.com/DenisBerte/denisberte.github.io
   open-graph: true
   navbar:
@@ -15,39 +15,36 @@ website:
       - text: "Sobre"
         file: index.qmd
         aria-label: Sobre
-      - file: publicacoes.qmd
+      - text: "Publicações"
+        file: publicacoes.qmd
         aria-label: Publicações
-      - file: cv.qmd
-        text: "CV"
-      - file: consultoria.qmd
-        aria-label: Consultoria
+      - text: "CV"
+        file: cv.qmd
+      - text: "Consultoria"
+        file: consultoria.qmd
       - icon: github
         href: https://github.com/DenisBerte
-        aria-label: Perfil GitHub 
+        aria-label: Perfil GitHub
       - icon: linkedin
-        url: "#"
+        href: "#"
         aria-label: Linkedin
-        href: "h"
-  
-  favicon: "Denis Berté Sálvia"
+  favicon: "assets/logo.png"
   cookie-consent:
     type: express
     style: headline 
     palette: light
   page-footer: 
     right: |
-      Mit {{< fa brands r-project >}} und [Quarto](https://quarto.org/) erstellt.<br>
-      Source Code auf [GitHub](https://github.com/DenisBerte)
+      Criado com {{< fa brands r-project >}} e [Quarto](https://quarto.org/).<br>
+      Código-fonte disponível em [GitHub](https://github.com/DenisBerte).
 
 execute: 
   freeze: auto
 
 format:
   html:
-    theme: 
-      light: [flatly, styles.scss]
+    theme: flatly
     toc: false
     link-external-newwindow: true
 
 editor: source
-
