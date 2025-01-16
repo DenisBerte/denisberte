@@ -1,11 +1,9 @@
 {
-  "hash": "7e1bdbfa545adbd6f5178bac328847d7",
+  "hash": "890f7f5e3f1d4b88fd6e96e72462fc64",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Currículo\"\ncv:\n  pdf: \"curriculo.pdf\"\nengine: knitr\n---\n\n{{< pdf curriculo.pdf width=100% height=500 >}}\n\n",
-    "supporting": [
-      "cv_files"
-    ],
+    "markdown": "---\ntitle: \"Currículo Lattes\"\ncv:\n  pdf: \"lattes.pdf\"\nengine: knitr\n---\n\n{{< pdf lattes.pdf width=100% height=500 >}}\n\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

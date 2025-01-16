@@ -1,8 +1,8 @@
 ---
-title: "Currículo"
+title: "Currículo Lattes"
 cv:
-  pdf: "curriculo.pdf"
+  pdf: "lattes.pdf"
 engine: knitr
 ---
 
-{{< pdf curriculo.pdf width=100% height=500 >}}
+{{< pdf lattes.pdf width=100% height=500 >}}

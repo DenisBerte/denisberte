@@ -4,7 +4,7 @@ about:
   template: trestles
   image: "assets/foto.jpg"
   links:
-    - text: "{{< fa regular file-pdf >}} CV"
+    - text: "{{< fa regular file-pdf >}} Lattes"
       url: "cv.qmd"
     - icon: linkedin
       text: Linkedin (em breve)
@@ -15,9 +15,16 @@ about:
 page-layout: full
 ---
 
+<style>
+body {
+  text-align: justify;
+}
+</style>
+
+
 ## {{< fa user >}} Sobre
 
-Olá, bem vindos ao meu website pessoal, desenvolvido com RStudio e Quarto. Sou Cientista Social, mestre em Sociologia Política, Doutor em Sociologia e Ciência Política com concentração em Sociologia. Atualmente curso MBA em Ciência e Análise de Dados. Tenho interesse e experiência em pesquisas quantitativas, especialmente em Opinião Pública e Políticas Públicas, envolvendo trabalho com indicadores sociais diversos e análise estatística multivariada. Também tenho experiência em pesquisas representativas e amostragem, além de levantamento de dados em campo. Trabalho com análise estatística em linguagem R, Python, SPSS e Excel.
+Bem vindos ao meu website pessoal, desenvolvido com RStudio e Quarto. Sou Cientista Social, mestre em Sociologia Política, Doutor em Sociologia e Ciência Política com concentração em Sociologia. Atualmente curso MBA em Ciência e Análise de Dados. Tenho interesse e experiência em pesquisas quantitativas, especialmente em Opinião Pública e Políticas Públicas, envolvendo trabalho com indicadores sociais diversos e análise estatística multivariada. Também tenho experiência em pesquisas representativas e amostragem, além de levantamento de dados em campo. Trabalho com análise estatística em linguagem R, Python, SPSS e Excel.
 
 ---
 
@@ -25,7 +32,7 @@ Olá, bem vindos ao meu website pessoal, desenvolvido com RStudio e Quarto. Sou 
 
 ### {{< fa graduation-cap >}} Formação Acadêmica
 
-Minha trajetória acadêmica abrange desde as Ciências Sociais, em especial a sociologia e a ciência política, até um contato em ciência de dados, com foco em métodos quantitativos de pesquisa e análise de dados.
+Minha trajetória acadêmica abrange das Ciências Sociais, em especial a sociologia e a ciência política, até um contato em ciência de dados, com foco em métodos quantitativos de pesquisa e análise de dados.
 
 - **MBA em Data Science and Analytics** \| 2024- \| ESALQ
 - **Doutor em Sociologia** \| 2018-2024 \| PPGSP/UFSC

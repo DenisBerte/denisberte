@@ -2,6 +2,13 @@
 title: "Publicações"
 ---
 
+<style>
+body {
+  text-align: justify;
+}
+</style>
+
+
 Aqui estão algumas das minhas principais publicações. Mais detalhes sobre estas publicações estão disponíveis na aba "Currículo".
 
 ## {{< fa book-open >}} Artigos Publicados em Periódicos

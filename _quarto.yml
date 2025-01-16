@@ -18,7 +18,7 @@ website:
       - text: "Publicações"
         file: publicacoes.qmd
         aria-label: Publicações
-      - text: "CV"
+      - text: "Lattes"
         file: cv.qmd
       - text: "Consultoria"
         file: consultoria.qmd

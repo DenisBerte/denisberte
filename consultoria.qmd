@@ -1,8 +1,14 @@
 ---
-title: "Consultoria"
+title: "Consultoria em Pesquisa e Análise de Dados"
 ---
 
-## Consultoria em Pesquisa e Análise de Dados
+<style>
+body {
+  text-align: justify;
+}
+</style>
+
+
 
 Ofereço serviços especializados em pesquisa e análise de dados, ajudando organizações e indivíduos a transformar informações em decisões. Minha experiência combina metodologia científica e tecnologia para entregar resultados precisos.
 
