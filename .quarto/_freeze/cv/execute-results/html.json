@@ -1,0 +1,15 @@
+{
+  "hash": "890f7f5e3f1d4b88fd6e96e72462fc64",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Currículo Lattes\"\ncv:\n  pdf: \"lattes.pdf\"\nengine: knitr\n---\n\n{{< pdf lattes.pdf width=100% height=500 >}}\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
