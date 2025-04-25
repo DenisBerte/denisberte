@@ -2,8 +2,8 @@ project:
   type: website
 
 website:
-  title: "Denis Berté Sálvia"
-  description: "Website pessoal"
+  title: "SBData"
+  description: "Website"
   site-url: "https://denisberte.github.io/"
   repo-url: https://github.com/DenisBerte/denisberte.github.io
   open-graph: true
@@ -36,7 +36,7 @@ website:
   page-footer: 
     right: |
       Criado com {{< fa brands r-project >}} e [Quarto](https://quarto.org/).<br>
-      Código-fonte disponível em [GitHub](https://github.com/DenisBerte).
+
 
 execute: 
   freeze: auto

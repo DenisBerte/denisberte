@@ -1,5 +1,5 @@
 ---
-title: "Denis Berté Sálvia, Dr."
+title: "SBData - Denis Berté Sálvia, Dr."
 about: 
   template: trestles
   image: "assets/foto.jpg"
@@ -7,7 +7,7 @@ about:
     - text: "{{< fa regular file-pdf >}} Lattes"
       url: "cv.qmd"
     - icon: linkedin
-      text: Linkedin (em breve)
+      text: Linkedin
       url: "#"
     - icon: github
       text: Github
@@ -22,9 +22,9 @@ body {
 </style>
 
 
-## {{< fa user >}} Sobre
+## {{< fa user >}} Sobre a SBData
 
-Bem vindos ao meu website pessoal, desenvolvido com RStudio e Quarto. Sou Cientista Social, mestre em Sociologia Política, Doutor em Sociologia e Ciência Política com concentração em Sociologia. Atualmente curso MBA em Ciência e Análise de Dados. Tenho interesse e experiência em pesquisas quantitativas, especialmente em Opinião Pública e Políticas Públicas, envolvendo trabalho com indicadores sociais diversos e análise estatística multivariada. Também tenho experiência em pesquisas representativas e amostragem, além de levantamento de dados em campo. Trabalho com análise estatística em linguagem R, Python, SPSS e Excel.
+Bem vindos ao website da SBData, uma empresa especializada em pesquisa e análise de dados. Eu sou fundador e me chamo Denis, sou Cientista Social, mestre em Sociologia Política, Doutor em Sociologia e Ciência Política com concentração em Sociologia. Atualmente curso MBA em Ciência e Análise de Dados. Tenho experiência em pesquisas quantitativas, especialmente em Opinião Pública e Políticas Públicas, envolvendo trabalho com indicadores sociais diversos e análise estatística multivariada. Também tenho experiência em pesquisas representativas e amostragem, além de levantamento de dados em campo. Trabalho com análise estatística em linguagem R, Python, SPSS e Excel. Mais recentemente tenho me voltado a serviçoes de consultoria para mandatos políticos com análises ligadas ao caompo eleitoral.
 
 ---
 
@@ -32,7 +32,7 @@ Bem vindos ao meu website pessoal, desenvolvido com RStudio e Quarto. Sou Cienti
 
 ### {{< fa graduation-cap >}} Formação Acadêmica
 
-Minha trajetória acadêmica abrange das Ciências Sociais, em especial a sociologia e a ciência política, até um contato em ciência de dados, com foco em métodos quantitativos de pesquisa e análise de dados.
+Minha trajetória acadêmica abrange das Ciências Sociais, em especial a sociologia e a ciência política, até ciência de dados, com foco em métodos quantitativos de pesquisa e análise de dados.
 
 - **MBA em Data Science and Analytics** \| 2024- \| ESALQ
 - **Doutor em Sociologia** \| 2018-2024 \| PPGSP/UFSC
@@ -53,8 +53,16 @@ Minha trajetória acadêmica abrange das Ciências Sociais, em especial a sociol
 ### {{< fa code >}} Projetos
 
 - **Vitimização em ambientes universitários - Florianópolis e Chapecó**:  
-  Estudo sobre violência em universidades.  
+  Estudo sobre violência em universidades. Fui responsável pela aplicação do survey online. 
   [Relatório da pesquisa](https://nipp.ufsc.br/category/vitimizacao-e-sentimento-de-seguranca/)
+  
+- **Medo do crime e insegurança social em Florianópolis/SC**:
+  Pesquisa sobre a relação entre crime, medo e inseguranças sociais. Essa foi minha pesquisa de tese de Doutorado. Foi a primeira pesquisa do tipo realizada na cidade.
+  [Estudo na íntegra](https://repositorio.ufsc.br/handle/123456789/264518)
+  
+- **O que conecta os públicos ao jornalismo local: hábitos, interesses, sustentabilidade, engajamento e participação em Florianópolis**:
+  Pesquisa sobre hábitos de consumo de notícias em Florianópolis/SC. Prestei consultoria para desenho de survey representativo da população e análise de dados.
+  [Resumo do trabalho](https://sistemas.intercom.org.br/pdf/submissao/nacional/17/06282024175731667f23bb0f809.pdf)
 
 :::
 
@@ -62,5 +70,5 @@ Minha trajetória acadêmica abrange das Ciências Sociais, em especial a sociol
 
 ## {{< fa envelope >}} Contato
 
-- **Email**: [denisberte@gmail.com](mailto:denisberte@gmail.com)
+- **Email**: [sbdata10@gmail.com](mailto:sbdata10@gmail.com)
 
