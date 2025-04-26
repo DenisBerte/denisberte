@@ -13,6 +13,7 @@ body {
 Ofereço soluções em pesquisa e análise de dados, ajudando organizações e indivíduos a transformar informações em decisões. Minha experiência combina metodologia científica e tecnologia para entregar resultados precisos.
 
 ### **Serviços Disponíveis**
+
 - **Consultoria eleitoral**
   Produção de relatórios eleitorais combinando bases de dados de candidatos, do eleitorado e dos resultados, em nível municipal ou estadual. Os relatórios são individuais e oferecem um olhar refinado sobre a eleição.
 
@@ -27,6 +28,9 @@ Ofereço soluções em pesquisa e análise de dados, ajudando organizações e i
 
 - **Visualização e Apresentação de Resultados**  
   Criação de relatórios visuais, dashboards interativos ou websites personalizados para divulgação dos resultados, dependendo da necessidade do cliente.
+  
+- **Edição de cadastros, listas e outros produtos gráficos**
+
 
 ### **Diferenciais**
 - Entrega personalizada e individualizada para cada cliente do início ao fim de sua pesquisa, sempre mantendo o foco na análise de dados.
