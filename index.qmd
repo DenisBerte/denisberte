@@ -7,7 +7,7 @@ about:
     - icon: github
       text: Github
       url: "https://github.com/DenisBerte/"
-      - icon: envelope
+    - icon: envelope
       text: Email
       url: "mailto:sbdata10@gmail.com"
 page-layout: full
