@@ -9,7 +9,7 @@ body {
 </style>
 
 
-Aqui estão algumas das minhas principais publicações. Mais detalhes sobre estas publicações estão disponíveis na aba "Currículo".
+Aqui estão algumas das minhas principais publicações.
 
 ## {{< fa book-open >}} Artigos Publicados em Periódicos
 

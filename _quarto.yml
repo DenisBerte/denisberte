@@ -25,9 +25,9 @@ website:
       - icon: github
         href: https://github.com/DenisBerte
         aria-label: Perfil GitHub
-      - icon: linkedin
-        href: "#"
-        aria-label: Linkedin
+      - icon: envelope
+        href: "mailto:sbdata10@gmail.com"
+        aria-label: Email
   favicon: "assets/logo.png"
   cookie-consent:
     type: express

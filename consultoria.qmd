@@ -10,24 +10,27 @@ body {
 
 
 
-Ofereço serviços especializados em pesquisa e análise de dados, ajudando organizações e indivíduos a transformar informações em decisões. Minha experiência combina metodologia científica e tecnologia para entregar resultados precisos.
+Ofereço soluções em pesquisa e análise de dados, ajudando organizações e indivíduos a transformar informações em decisões. Minha experiência combina metodologia científica e tecnologia para entregar resultados precisos.
 
 ### **Serviços Disponíveis**
+- **Consultoria eleitoral**
+  Produção de relatórios eleitorais combinando bases de dados de candidatos, do eleitorado e dos resultados, em nível municipal ou estadual. Os relatórios são individuais e oferecem um olhar refinado sobre a eleição.
+
 - **Amostragem e Planejamento de Pesquisa**  
   Elaboração de amostras representativas e desenhos de pesquisas alinhados aos objetivos do cliente.
   
 - **Levantamento de Dados em Campo**  
-  Coordenação e execução de coletas de dados, incluindo da metodologia de survey e entrevistas, aos bancos de dados e relatórios.
+  Coordenação e execução de coletas de dados, incluindo desde a metodologia de survey e entrevistas, aos bancos de dados e relatórios.
 
 - **Análise Estatística e Modelagem**  
   Aplicação de técnicas avançadas de análise de dados usando R, Python, SPSS e outras ferramentas.
 
 - **Visualização e Apresentação de Resultados**  
-  Criação de relatórios visuais, dashboards interativos e websites personalizados para divulgação dos resultados.
+  Criação de relatórios visuais, dashboards interativos ou websites personalizados para divulgação dos resultados, dependendo da necessidade do cliente.
 
 ### **Diferenciais**
-- Entrega personalizada com foco em análise de dados, incluindo soluções digitais como websites (Data_Present) e apps interativos (Data_Check).
-- Experiência com análise multivariada e indicadores sociais.
+- Entrega personalizada e individualizada para cada cliente do início ao fim de sua pesquisa, sempre mantendo o foco na análise de dados.
+- Experiência com análise multivariada e indicadores sociais de diversas áreas, como saúde, educação, segurança e dados eleitorais.
 - Metodologias de pesquisa alinhadas às práticas acadêmicas e de mercado.
 
 Entre em contato para discutir como posso ajudar você ou sua organização a alcançar resultados e respostas.
