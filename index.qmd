@@ -9,7 +9,7 @@ about:
       url: "https://github.com/DenisBerte/"
     - icon: envelope
       text: Email
-      url: "mailto:sbdata10@gmail.com"
+      url: "mailto:denis@sabdata.com.br"
 page-layout: full
 ---
 
@@ -22,7 +22,7 @@ body {
 
 ## {{< fa user >}} Sobre
 
-Bem vindos! Eu sou o Denis, proprietário da SBData. Sou Cientista Social, mestre em Sociologia Política, Doutor em Sociologia e Ciência Política com concentração em Sociologia. Atualmente curso MBA em Ciência e Análise de Dados. Tenho experiência em pesquisas quantitativas, especialmente em Opinião Pública e Políticas Públicas, envolvendo trabalho com indicadores sociais diversos e análise estatística multivariada. Trabalho com análise estatística em linguagem R, Python, SPSS e Excel. Presto serviços de consultoria em pesquisa e análise, incluindo pesquisa para mandatos políticos, com levantamento de dados primários ou secundários e análises ligadas a eleições. Navegue pelas abas acima para ver algumas publicações recentes, meu currículo Lattes, e detalhes sobre serviços de Consultoria.
+Sou o Denis, Cientista Social, mestre em Sociologia Política, Doutor em Sociologia e Ciência Política com concentração em Sociologia. Atualmente curso MBA em Ciência e Análise de Dados. Tenho experiência em pesquisas quantitativas, especialmente em Opinião Pública e Políticas Públicas, envolvendo trabalho com indicadores sociais diversos e análise estatística multivariada. Trabalho com análise estatística em linguagem R, Python, SPSS e Excel. Presto serviços de consultoria em pesquisa e análise, incluindo pesquisa para mandatos políticos, com levantamento de dados primários ou secundários e análises ligadas a eleições. Navegue pelas abas acima para ver algumas publicações recentes, meu currículo Lattes, e detalhes sobre serviços de Consultoria.
 
 ---
 
@@ -41,10 +41,11 @@ Minha trajetória acadêmica abrange das Ciências Sociais, em especial a sociol
 
 ### {{< fa briefcase >}} Experiência Profissional
 
+- **Diretor Financeiro** \| Instituto Werner - Instituto de Pesquisas de Variações Socioculturais (IPEVSC/SC) \| 2025-
 - **Pesquisador** \| Núcleo Interdisciplinar em Políticas Públicas e Opinião Pública (NIPP/UFSC) \| 2014-
 - **Especialista em Pesquisa** \| Secretaria de Estado de Desenvolvimento Econômico de Santa Catarina - Programa Gente Catarina \| 2022-2023
-- **Consultoria em Pesquisa de campo** \| Projeto LocalJor \| 2024
-- **Treinamento e consultoria em análise estatística em SPSS** \| Florianópolis/SC \| 2023
+- **Consultoria em Pesquisa de campo e análise de dados** \| Projeto LocalJor \| 2024-2025
+- **Treinamento e consultoria em análise estatística com uso do SPSS** \| Florianópolis/SC \| 2023
 
 ---
 
@@ -68,14 +69,14 @@ Minha trajetória acadêmica abrange das Ciências Sociais, em especial a sociol
 
 ## {{< fa envelope >}} Contato
 
-- **Email**: [sbdata10@gmail.com](mailto:sbdata10@gmail.com)
+- **Email**: [denis@sabdata.com.br](mailto:denis@sabdata.com.br)
 - **Telefone/Whatsapp**: (48) 9 9623-7317
 
 ---
 
 <div style="font-size: 0.9em; text-align: center; margin-top: 2em;">
 
-**SBData - Soluções em Dados**  
+**SABdata - Pesquisa e Análise**  
 CNPJ: 60.471.934/0001-33  
 Endereço: Rodovia José Carlos Daux, 4190, Bloco B - Sala 159A  
 Bairro Saco Grande, Florianópolis - SC - Brasil  
