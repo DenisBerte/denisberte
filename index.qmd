@@ -76,7 +76,7 @@ Minha trajetória acadêmica abrange das Ciências Sociais, em especial a sociol
 
 <div style="font-size: 0.9em; text-align: center; margin-top: 2em;">
 
-**SABdata - Pesquisa e Análise**  
+**SaBdata - Pesquisa e Análise**  
 CNPJ: 60.471.934/0001-33  
 Endereço: Rodovia José Carlos Daux, 4190, Bloco B - Sala 159A  
 Bairro Saco Grande, Florianópolis - SC - Brasil  

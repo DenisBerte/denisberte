@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "SABdata"
+  title: "SaBdata"
   description: "Website"
   site-url: "https://denisberte.github.io/"
   repo-url: https://github.com/DenisBerte/denisberte.github.io
