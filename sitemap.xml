@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://denisberte.github.io/publicacoes.html</loc>
-    <lastmod>2025-04-26T16:53:07.441Z</lastmod>
-  </url>
-  <url>
-    <loc>https://denisberte.github.io/cv.html</loc>
-    <lastmod>2025-04-26T16:53:07.440Z</lastmod>
-  </url>
-  <url>
     <loc>https://denisberte.github.io/consultoria.html</loc>
-    <lastmod>2025-04-26T16:53:07.440Z</lastmod>
+    <lastmod>2025-05-29T16:30:54.473Z</lastmod>
+  </url>
+  <url>
+    <loc>https://denisberte.github.io/publicacoes.html</loc>
+    <lastmod>2025-05-29T16:30:54.475Z</lastmod>
   </url>
   <url>
     <loc>https://denisberte.github.io/index.html</loc>
-    <lastmod>2025-04-26T16:53:07.440Z</lastmod>
+    <lastmod>2025-05-29T16:30:54.473Z</lastmod>
+  </url>
+  <url>
+    <loc>https://denisberte.github.io/cv.html</loc>
+    <lastmod>2025-05-29T16:30:54.473Z</lastmod>
   </url>
 </urlset>
