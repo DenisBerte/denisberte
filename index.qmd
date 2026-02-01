@@ -44,16 +44,16 @@ Minha trajetória acadêmica abrange das Ciências Sociais, em especial a sociol
 - **Diretor Financeiro** \| Instituto Werner - Instituto de Pesquisas de Variações Socioculturais (IPEVSC/SC) \| 2025-
 - **Pesquisador** \| Núcleo Interdisciplinar em Políticas Públicas e Opinião Pública (NIPP/UFSC) \| 2014-
 - **Especialista em Pesquisa** \| Secretaria de Estado de Desenvolvimento Econômico de Santa Catarina - Programa Gente Catarina \| 2022-2023
-- **Consultoria em Pesquisa de campo e análise de dados** \| Projeto LocalJor \| 2024-2025
+- **Consultoria em Pesquisa de campo e análise de dados** \| Projeto LocalJor \| 2024 e 2025
 - **Treinamento e consultoria em análise estatística com uso do SPSS** \| Florianópolis/SC \| 2023
 
 ---
 
 ### {{< fa code >}} Projetos
 
-- **Vitimização em ambientes universitários - Florianópolis e Chapecó**:  
-  Estudo sobre violência em universidades. Fui responsável pela aplicação do survey online e entrega da base final para análises. 
-  [Relatório da pesquisa](https://nipp.ufsc.br/category/vitimizacao-e-sentimento-de-seguranca/)
+- **Vitimização e medo do crime em Florianópolis: perspectivas políticas e sociais de uma metrópole insular**:  
+  Estudo científico financiado pelo Instituto de Pesquisas de Variações Socioculturais (IPEVSC), com survey presencial e amostragem probabilística (708 entrevistas). Coordeno o projeto e o trabalho de campo, além da supervisão científica e organização da base de dados e análises. A pesquisa investiga vitimização, medo do crime, ambiente do bairro, coesão social, participação política e inclui experimento de opiniões (conjoint).  
+  [Página do projeto](https://nipp.ufsc.br/)
   
 - **Medo do crime e insegurança social em Florianópolis/SC**:
   Pesquisa sobre a relação entre crime, medo e inseguranças sociais. Essa foi minha pesquisa de tese de Doutorado, e foi a primeira pesquisa do tipo realizada na cidade.
@@ -62,6 +62,10 @@ Minha trajetória acadêmica abrange das Ciências Sociais, em especial a sociol
 - **O que conecta os públicos ao jornalismo local: hábitos, interesses, sustentabilidade, engajamento e participação em Florianópolis**:
   Pesquisa sobre hábitos de consumo de notícias em Florianópolis/SC. Prestei consultoria para o desenho de survey representativo da população, levantamento e parte da análise de dados.
   [Resumo do trabalho](https://publicacoes.softaliza.com.br/compos2025/article/view/11352)
+  
+- **Vitimização em ambientes universitários - Florianópolis e Chapecó**:  
+  Estudo sobre violência em universidades. Fui responsável pela aplicação do survey online e entrega da base final para análises. 
+  [Relatório da pesquisa](https://nipp.ufsc.br/category/vitimizacao-e-sentimento-de-seguranca/)
 
 :::
 
@@ -80,6 +84,5 @@ Minha trajetória acadêmica abrange das Ciências Sociais, em especial a sociol
 Endereço: Rodovia José Carlos Daux, 4190, Bloco B - Sala 159A  
 Bairro Saco Grande, Florianópolis - SC - Brasil  
 CEP: 88032-005
-CNPJ: 60.471.934/0001-33 
 
 </div>
