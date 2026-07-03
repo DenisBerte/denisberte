@@ -9,32 +9,39 @@ body {
 </style>
 
 
+Ofereço consultoria em pesquisa e análise de dados para organizações públicas, privadas, acadêmicas e da sociedade civil. Meu trabalho combina metodologia científica, experiência em pesquisa de campo e domínio de ferramentas estatísticas para transformar dados em diagnósticos, relatórios e decisões.
 
-Ofereço soluções em pesquisa e análise de dados, ajudando organizações e indivíduos a transformar informações em decisões. Minha experiência combina metodologia científica e tecnologia para entregar resultados precisos.
+### **Serviços disponíveis**
 
-### **Serviços Disponíveis**
+- **Consultoria eleitoral**  
+  Produção de relatórios eleitorais a partir de bases de candidatos, eleitorado, resultados e indicadores territoriais, em nível municipal ou estadual.
 
-- **Consultoria eleitoral**
-  Produção de relatórios eleitorais combinando bases de dados de candidatos, do eleitorado e dos resultados, em nível municipal ou estadual. Os relatórios são individuais e oferecem um olhar refinado sobre a eleição.
-
-- **Amostragem e Planejamento de Pesquisa**  
-  Elaboração de amostras representativas e desenhos de pesquisas alinhados aos objetivos do cliente.
+- **Amostragem e planejamento de pesquisa**  
+  Elaboração de desenhos amostrais, questionários e estratégias de coleta alinhadas aos objetivos do projeto.
   
-- **Levantamento de Dados em Campo**  
-  Coordenação e execução de coletas de dados, incluindo desde a metodologia de survey e entrevistas, aos bancos de dados e relatórios.
+- **Levantamento de dados em campo**  
+  Coordenação e execução de surveys presenciais ou online, com acompanhamento da coleta, controle de qualidade e entrega de bases organizadas.
 
-- **Análise Estatística e Modelagem**  
-  Aplicação de técnicas avançadas de análise de dados usando R, Python, SPSS e outras ferramentas.
+- **Análise estatística e modelagem**  
+  Aplicação de técnicas de análise descritiva, indicadores, cruzamentos, modelos multivariados e métodos de aprendizado de máquina, conforme a necessidade do estudo.
 
-- **Visualização e Apresentação de Resultados**  
-  Criação de relatórios visuais, dashboards interativos ou websites personalizados para divulgação dos resultados, dependendo da necessidade do cliente.
+- **Visualização e apresentação de resultados**  
+  Criação de relatórios técnicos, resumos executivos, infográficos, dashboards e páginas de divulgação de resultados.
   
-- **Edição de cadastros, listas e outros produtos gráficos**
+- **Tratamento de bases, cadastros e listas**  
+  Padronização, limpeza, cruzamento e organização de bases de dados para análise ou uso operacional.
 
+### **Experiência recente**
+
+- Assessoria técnica para implantação, gerenciamento e processamento de dados sobre organizações da sociedade civil em Florianópolis/SC.
+- Assessoria técnica para desenho amostral, implantação e gerenciamento de survey probabilístico presencial em Florianópolis/SC.
+- Consultoria para pesquisa sobre jornalismo local, hábitos de consumo de notícias, sustentabilidade, engajamento e participação em Florianópolis.
 
 ### **Diferenciais**
-- Entrega personalizada e individualizada para cada cliente do início ao fim de sua pesquisa, sempre mantendo o foco na análise de dados.
-- Experiência com análise multivariada e indicadores sociais de diversas áreas, como saúde, educação, segurança e dados eleitorais.
-- Metodologias de pesquisa alinhadas às práticas acadêmicas e de mercado.
 
-Entre em contato para discutir como posso ajudar você ou sua organização a alcançar resultados e respostas.
+- Atendimento personalizado do desenho inicial da pesquisa à entrega dos produtos finais.
+- Experiência com indicadores sociais, políticos, econômicos e demográficos em diferentes escalas territoriais.
+- Familiaridade com R, Python, SPSS, Excel e fluxos reprodutíveis de análise.
+- Metodologias alinhadas às práticas acadêmicas e às necessidades aplicadas de cada projeto.
+
+Entre em contato para conversar sobre seu projeto e avaliar o melhor desenho de pesquisa, análise ou produto de dados.

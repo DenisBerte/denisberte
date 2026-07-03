@@ -22,7 +22,9 @@ body {
 
 ## {{< fa user >}} Sobre
 
-Sou o Denis, Cientista Social, mestre em Sociologia Política, Doutor em Sociologia e Ciência Política com concentração em Sociologia, e tenho MBA em Ciência e Análise de Dados. Trabalho com pesquisas quantitativas, especialmente em Opinião Pública e Políticas Públicas, envolvendo trabalho com indicadores sociais diversos e análise estatística multivariada. Realizo análise estatística em linguagem R, Python, SPSS e Excel. Presto serviços de consultoria em pesquisa e análise, incluindo pesquisa para mandatos políticos, com levantamento de dados primários ou secundários e análises ligadas a eleições. Navegue pelas abas acima para ver algumas publicações recentes, meu currículo Lattes, e detalhes sobre serviços de Consultoria.
+Sou Denis Berté Sálvia, cientista social, doutor em Sociologia e Ciência Política pela Universidade Federal de Santa Catarina (UFSC), mestre em Sociologia Política e especialista em Ciência e Análise de Dados pela USP/ESALQ. Trabalho com pesquisa quantitativa, opinião pública, políticas públicas, segurança pública, indicadores sociais e análise estatística multivariada.
+
+Atuo com desenho de pesquisa, amostragem, levantamento e organização de bases de dados, análise em R, Python, SPSS e Excel, produção de relatórios e visualização de resultados. Também presto consultoria em pesquisa e análise de dados para projetos acadêmicos, organizações, mandatos políticos e iniciativas que precisam transformar informação em decisão.
 
 ---
 
@@ -30,41 +32,42 @@ Sou o Denis, Cientista Social, mestre em Sociologia Política, Doutor em Sociolo
 
 ### {{< fa graduation-cap >}} Formação Acadêmica
 
-Minha trajetória acadêmica abrange das Ciências Sociais, em especial a sociologia e a ciência política, até ciência de dados, com foco em métodos quantitativos de pesquisa e análise de dados.
+Minha formação combina Ciências Sociais, Sociologia Política e Ciência de Dados, com foco em métodos quantitativos, metodologia de survey, opinião pública e análise de indicadores.
 
 - **MBA em Data Science and Analytics** \| 2024-2025 \| USP/ESALQ
-- **Doutor em Sociologia** \| 2018-2024 \| PPGSP/UFSC
+- **Doutor em Sociologia e Ciência Política** \| 2018-2024 \| PPGSP/UFSC
 - **Mestre em Sociologia Política** \| 2016-2017 \| PPGSP/UFSC
-- **Bacharel em Ciências Sociais** \| 2010-2015 \| Universidade Federal de Santa Catarina/UFSC
+- **Bacharel em Ciências Sociais** \| 2010-2015 \| UFSC
 
 ---
 
 ### {{< fa briefcase >}} Experiência Profissional
 
-- **Diretor Financeiro** \| Instituto Werner - Instituto de Pesquisas de Variações Socioculturais (IPEVSC/SC) \| 2025-
-- **Pesquisador** \| Núcleo Interdisciplinar em Políticas Públicas e Opinião Pública (NIPP/UFSC) \| 2014-
-- **Especialista em Pesquisa** \| Secretaria de Estado de Desenvolvimento Econômico de Santa Catarina - Programa Gente Catarina \| 2022-2023
-- **Consultoria em Pesquisa de campo e análise de dados** \| Projeto LocalJor \| 2024 e 2025
-- **Treinamento e consultoria em análise estatística com uso do SPSS** \| Florianópolis/SC \| 2023
+- **Consultor em Pesquisa e Análise de Dados** \| Denis Berté Sálvia - Consultoria em Pesquisa e Análise de Dados \| 2024-atual
+- **Diretor Financeiro** \| Instituto Werner - Instituto de Pesquisas de Variações Socioculturais (IPEVSC/SC) \| 2025-atual
+- **Pesquisador** \| Núcleo Interdisciplinar em Políticas Públicas e Opinião Pública (NIPP/UFSC) \| 2014-atual
+- **Especialista em Pesquisa** \| Secretaria de Estado de Desenvolvimento Econômico Sustentável de Santa Catarina - Programa Gente Catarina \| 2022-2023
+- **Consultoria em pesquisa de campo e análise de dados** \| Projeto LocalJor \| 2024-2025
+- **Treinamento e consultoria em análise estatística com SPSS** \| Florianópolis/SC \| 2023
 
 ---
 
 ### {{< fa code >}} Projetos
 
 - **Vitimização e medo do crime em Florianópolis: perspectivas políticas e sociais de uma metrópole insular**:  
-  Estudo científico financiado pelo Instituto de Pesquisas de Variações Socioculturais (IPEVSC), com survey presencial e amostragem probabilística (708 entrevistas). Coordeno o projeto e o trabalho de campo, além da supervisão científica e organização da base de dados e análises. A pesquisa investiga vitimização, medo do crime, ambiente do bairro, coesão social, participação política e inclui experimento de opiniões (conjoint).  
+  Estudo científico financiado pelo Instituto de Pesquisas de Variações Socioculturais (IPEVSC), com survey presencial e amostragem probabilística de 708 entrevistas. Coordeno o projeto, o trabalho de campo, a organização da base de dados e as análises. A pesquisa investiga vitimização, medo do crime, sensação de segurança, ambiente do bairro, coesão social, participação política e atitudes políticas, incluindo experimento do tipo conjoint.  
   [Página do projeto](https://nipp.ufsc.br/)
   
 - **Medo do crime e insegurança social em Florianópolis/SC**:
-  Pesquisa sobre a relação entre crime, medo e inseguranças sociais. Essa foi minha pesquisa de tese de Doutorado, e foi a primeira pesquisa do tipo realizada na cidade.
+  Pesquisa de doutorado sobre os determinantes sociais do medo do crime em Florianópolis/SC, articulando vitimização, insegurança social, desorganização social, coesão social e características do território.
   [Estudo na íntegra](https://repositorio.ufsc.br/handle/123456789/264518)
   
 - **O que conecta os públicos ao jornalismo local: hábitos, interesses, sustentabilidade, engajamento e participação em Florianópolis**:
-  Pesquisa sobre hábitos de consumo de notícias em Florianópolis/SC. Prestei consultoria para o desenho de survey representativo da população, levantamento e parte da análise de dados.
+  Pesquisa sobre hábitos de consumo de notícias em Florianópolis/SC. Prestei consultoria para o desenho do survey representativo, implantação da coleta, gerenciamento da base e parte da análise de dados.
   [Resumo do trabalho](https://publicacoes.softaliza.com.br/compos2025/article/view/11352)
   
 - **Vitimização em ambientes universitários - Florianópolis e Chapecó**:  
-  Estudo sobre violência em universidades. Fui responsável pela aplicação do survey online e entrega da base final para análises. 
+  Estudo sobre vitimização e sentimento de insegurança em campi universitários. Atuei na aplicação do survey online, organização dos dados e entrega da base final para análise. 
   [Relatório da pesquisa](https://nipp.ufsc.br/category/vitimizacao-e-sentimento-de-seguranca/)
 
 :::

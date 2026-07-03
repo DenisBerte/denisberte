@@ -7,5 +7,14 @@
 pub.qmd
 setup.R
 
-
 /.quarto/
+/_site/
+/_freeze/
+
+/404.html
+/cv.html
+/README.html
+/search.json
+/sitemap.xml
+
+**/*.quarto_ipynb

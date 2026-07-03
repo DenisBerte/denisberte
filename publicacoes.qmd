@@ -9,14 +9,13 @@ body {
 </style>
 
 
-Aqui estão algumas das minhas publicações.
+Seleção de publicações acadêmicas, capítulos, trabalhos em anais e apresentações. A lista completa está disponível no [Currículo Lattes](http://lattes.cnpq.br/0980989913917872).
 
 ## {{< fa book-open >}} Artigos Publicados em Periódicos
 
-1. **Produto Bruto Municipal por Setores Produtivos da Região Intermediária de Lages (2010–2019) – Santa Catarina – Brasil**  
-   *Revista de Geografia e Ordenamento do Território (GOT), v. 29, p. 76–91, 2025.*  
+1. **Produto Bruto Municipal por Setores Produtivos da Região Intermediária de Lages (2010-2019) - Santa Catarina - Brasil**  
+   *Revista de Geografia e Ordenamento do Território (GOT), v. 29, p. 76-91, 2025.*  
    [Leia mais](https://doi.org/10.17127/got/2025.29.004/)
-
 
 2. **Análise da Vocação Turística: Um Desafio na Região Intermediária de Lages, Santa Catarina**  
    *Revista Tamoios, v. 20, p. 323-345, 2024.*  
@@ -31,33 +30,52 @@ Aqui estão algumas das minhas publicações.
 ## {{< fa file-alt >}} Capítulos de Livros Publicados
 
 1. **Análise da Vocação Territorial Industrial da Região Geográfica Intermediária de Lages, Santa Catarina, Brasil**  
-   *Planejamento e Gestão Territorial. São Carlos: Pedro e João Editores, 2024.*  
+   *Planejamento e Gestão Territorial. São Carlos: Pedro e João Editores, 2024, p. 323-353.*  
    [Leia mais](https://pedroejoaoeditores.com.br/wp-content/uploads/2024/01/EBOOK_Planejamento-e-gestao-territorial.pdf)
 
-
 2. **Análise do Ambiente Socioeconômico como Fator de Desenvolvimento da Região Intermediária de Lages, Santa Catarina**  
-   *Planejamento e Gestão Territorial. São Carlos: Pedro e João Editores, 2023.*  
+   *Planejamento e Gestão Territorial. São Carlos: Pedro e João Editores, 2023, p. 367-400.*  
    [Leia mais](https://pedroejoaoeditores.com.br/wp-content/uploads/2023/08/EBOOK_Planejamento-e-gestao-territorial.pdf)
 
 3. **Segurança Pública e Pesquisa de Vitimização**  
-   *Perspectivas e Reflexões em Sociologia. São Paulo: Bookerfield, 2021.*
+   *Perspectivas e Reflexões em Sociologia. São Paulo: Bookerfield, 2021, p. 77-89.*  
    [Leia mais](https://bookerfield.com/catalogo/10.53268/BKF21091600)
+
+4. **Vitimização e medo do crime entre estudantes universitário/as: reflexões sobre gênero**  
+   *Vitimização e Sentimento de Insegurança: metodologias e pesquisas. Curitiba: Brazil Publishing, 2019, p. 151-180.*
 
 ---
 
-## {{< fa microphone >}} Trabalhos Apresentados em Congressos
+## {{< fa file-lines >}} Trabalhos Publicados em Anais
 
-1. **Medo do crime e insegurança: os determinantes sociais do medo do crime em Florianópolis/SC**  
-   *XI Congresso WAPOR América Latina – Opinião pública, civismo e riscos globais na América Latina, 2025.*
+1. **O que conecta os públicos ao jornalismo local: hábitos, interesses, sustentabilidade, engajamento e participação em Florianópolis**  
+   *34º Encontro Anual da Compós, Curitiba, 2025.*  
+   [Leia mais](https://publicacoes.softaliza.com.br/compos2025/article/view/11352)
 
-2. **Vitimização criminal e percepção de insegurança: análise da dimensão objetiva da insegurança a partir de dados de pesquisa realizada em Florianópolis/SC**  
-   *VII Jornada Brasileira de Sociologia, 2021.*
+2. **Vitimização e medo do crime na universidade: diagnóstico para políticas públicas**  
+   *III Seminário Participação Política e Democracia, Maringá/PR, 2017.*
 
 3. **Vitimização e medo do crime entre estudantes universitários/as: reflexões sobre gênero**  
-   *13º Mundos de Mulheres & Fazendo Gênero 11, 2017.*
+   *13º Congresso Mundos de Mulheres & Fazendo Gênero 11, Florianópolis/SC, 2017.*
+
+---
+
+## {{< fa microphone >}} Apresentações de Trabalho
+
+1. **Medo do crime e insegurança: os determinantes sociais do medo do crime em Florianópolis/SC**  
+   *XI Congresso WAPOR América Latina - Opinião pública, civismo e riscos globais na América Latina, 2025.*
+
+2. **Análise do ambiente socioeconômico como fator de desenvolvimento da região intermediária de Lages, estado de Santa Catarina**  
+   *XIII Seminário de Planejamento e Gestão Territorial, 2022.*
+
+3. **Vitimização criminal e percepção de insegurança: análise da dimensão objetiva da insegurança a partir de dados de pesquisa realizada em Florianópolis/SC**  
+   *VII Jornada Brasileira de Sociologia, 2021.*
+
+4. **Vitimização criminal e as distintas dimensões da (in)segurança: apontamentos teórico-metodológicos sobre os fatores sociais da insegurança**  
+   *19º Congresso Brasileiro de Sociologia, 2019.*
 
 ---
 
 ## {{< fa list-alt >}} Outras Produções
 
-Para uma lista completa de publicações, visite meu [Currículo Lattes](http://lattes.cnpq.br/0980989913917872).
+Além das publicações acadêmicas, desenvolvo relatórios técnicos, assessorias em pesquisa quantitativa e produtos analíticos para organizações públicas, privadas e da sociedade civil.

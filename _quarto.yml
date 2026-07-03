@@ -3,9 +3,9 @@ project:
 
 website:
   title: "SaBdata"
-  description: "Website"
-  site-url: "https://denisberte.github.io/"
-  repo-url: https://github.com/DenisBerte/denisberte.github.io
+  description: "Portfólio de Denis Berté Sálvia - pesquisa, análise de dados e consultoria."
+  site-url: "https://denisberte.github.io/denisberte/"
+  repo-url: https://github.com/DenisBerte/denisberte
   open-graph: true
   navbar:
     background: "#2A7B88"
@@ -48,3 +48,4 @@ format:
     link-external-newwindow: true
 
 editor: source
+
