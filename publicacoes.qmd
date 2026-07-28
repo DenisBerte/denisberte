@@ -13,15 +13,19 @@ Seleção de publicações acadêmicas, capítulos, trabalhos em anais e apresen
 
 ## {{< fa book-open >}} Artigos Publicados em Periódicos
 
-1. **Produto Bruto Municipal por Setores Produtivos da Região Intermediária de Lages (2010-2019) - Santa Catarina - Brasil**  
+1. **O que conecta os públicos ao jornalismo local: um survey sobre interesses em Florianópolis**  
+   *Estudos em Jornalismo e Mídia, v. 22, 2025. Publicado em 2026.*  
+   [Leia mais](https://doi.org/10.5007/1984-6924.2025.e108302)
+
+2. **Produto Bruto Municipal por Setores Produtivos da Região Intermediária de Lages (2010-2019) - Santa Catarina - Brasil**  
    *Revista de Geografia e Ordenamento do Território (GOT), v. 29, p. 76-91, 2025.*  
    [Leia mais](https://doi.org/10.17127/got/2025.29.004/)
 
-2. **Análise da Vocação Turística: Um Desafio na Região Intermediária de Lages, Santa Catarina**  
+3. **Análise da Vocação Turística: Um Desafio na Região Intermediária de Lages, Santa Catarina**  
    *Revista Tamoios, v. 20, p. 323-345, 2024.*  
    [Leia mais](https://www.e-publicacoes.uerj.br/tamoios/article/view/76388)
 
-3. **Prisão no Brasil, modernidade periférica e habitus precário**  
+4. **Prisão no Brasil, modernidade periférica e habitus precário**  
    *Revista Café com Sociologia, v. 4, p. 246-260, 2015.*  
    [Leia mais](https://revistacafecomsociologia.com/revista/index.php/revista/article/view/448/0)
 

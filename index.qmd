@@ -43,6 +43,7 @@ Minha formação combina Ciências Sociais, Sociologia Política e Ciência de D
 
 ### {{< fa briefcase >}} Experiência Profissional
 
+- **Analista Quantitativo** \| Market Analysis \| junho/2026-atual
 - **Consultor em Pesquisa e Análise de Dados** \| Denis Berté Sálvia - Consultoria em Pesquisa e Análise de Dados \| 2024-atual
 - **Diretor Financeiro** \| Instituto Werner - Instituto de Pesquisas de Variações Socioculturais (IPEVSC/SC) \| 2025-atual
 - **Pesquisador** \| Núcleo Interdisciplinar em Políticas Públicas e Opinião Pública (NIPP/UFSC) \| 2014-atual
@@ -64,7 +65,7 @@ Minha formação combina Ciências Sociais, Sociologia Política e Ciência de D
   
 - **O que conecta os públicos ao jornalismo local: hábitos, interesses, sustentabilidade, engajamento e participação em Florianópolis**:
   Pesquisa sobre hábitos de consumo de notícias em Florianópolis/SC. Prestei consultoria para o desenho do survey representativo, implantação da coleta, gerenciamento da base e parte da análise de dados.
-  [Resumo do trabalho](https://publicacoes.softaliza.com.br/compos2025/article/view/11352)
+  [Artigo publicado](https://periodicos.ufsc.br/index.php/jornalismo/article/view/108302)
   
 - **Vitimização em ambientes universitários - Florianópolis e Chapecó**:  
   Estudo sobre vitimização e sentimento de insegurança em campi universitários. Atuei na aplicação do survey online, organização dos dados e entrega da base final para análise. 
