@@ -2,7 +2,7 @@
 title: "Denis Berté Sálvia, Dr."
 about: 
   template: trestles
-  image: "assets/foto.jpg"
+  image: "assets/foto.png"
   links:
     - icon: github
       text: Github
